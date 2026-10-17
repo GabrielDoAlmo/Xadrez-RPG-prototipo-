@@ -20,7 +20,7 @@
 Não quer configurar o código-fonte? Pode descarregar a versão portátil completa (com o motor Stockfish, gráficos e assets embutidos). Basta extrair a pasta e executar o jogo!
 
 <div align="center">
-  <a href="https://github.com/GabrielDoAlmo/Xadrez-RPG-protótipo-/releases/latest">
+  <a href="https://github.com/GabrielDoAlmo/Xadrez-RPG-prototipo-/releases/tag/v1.0-beta">
     <img src="https://img.shields.io/badge/🎮%20BAIXAR%20XADREZ%20RPG%20(ZIP%20PRONTO)-Download%20Versão%20Portátil%20v1.0-brightgreen?style=for-the-badge&logo=windows&logoColor=white" alt="Download Xadrez RPG" width="480"/>
   </a>
 </div>
